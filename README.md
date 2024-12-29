@@ -1,2 +1,1 @@
-# charley077.github.io
-Personal Website
+# Hanxue Liang's personal website
